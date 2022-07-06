@@ -1,5 +1,3 @@
-Working with C++, JavaScript, Python
-
 Interested in: Programming, Cryptography, Reverse-Engineering
 
 <!---
