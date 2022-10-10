@@ -11,10 +11,9 @@
   - **Mathematics: (Favourite) [German Terminology]:**
     - **I like mathematics in general, but some topics are more fun to work at**
       - **I can not generalize anything; so take those as my current favourite topics**
-    - Komplexe Zahlen
-    - Mengenlehre und Logik
-    - Differentialgleichungen
-    - Polynome
+    - Analysis / Calculus
+    - Lineare Algebra / Analytische Geometrie
+    - Differentialgeometrie
     
 - 🛠️ Currently Working on various Projects
   - Fulfilled Orders for Boronide **[Free of Charge]**
