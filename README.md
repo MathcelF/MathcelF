@@ -13,7 +13,7 @@
       - **I can not generalize anything; so take those as my current favourite topics**
     - Analysis / Calculus
     - Lineare Algebra / Analytische Geometrie
-    - Differentialgeometrie
+    - Topology
     
 - 🛠️ Currently Working on various Projects
   - Fulfilled Orders for Boronide **[Free of Charge]**
